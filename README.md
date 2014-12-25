@@ -1,6 +1,8 @@
 ideas-for-projects
 ==================
 
+[![Project Status: Concept - Minimal or no implementation has been done yet.](http://www.repostatus.org/badges/0.1.0/concept.svg)](http://www.repostatus.org/#concept)
+
 Various ideas I've had for different projects, which I haven't started yet.
 
 Feel free to take these and use them so long as:
