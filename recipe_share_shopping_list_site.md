@@ -20,3 +20,17 @@ Recipe Share / Shopping List Site
   together or separate in mind. that means actual, quick syncronization, or an
   app that's just a wrapper around a mobile site. but we also want the list
   available offline.
+
+Features for a possibly-existing app
+--------------------------------------
+
+* sync/sharing between multiple users
+* recipe export (structured format) and email sharing
+* backup of all user data
+* web client
+* ability to store recipes, add them to a shopping list
+* search recipes by ingredient
+* Bonus Features
+  * recipe import (structured format)
+  * organize shopping list by aisles for multiple stores
+  * track list of ingredients to watch out for, and the recipes that use them
